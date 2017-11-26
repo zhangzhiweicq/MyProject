@@ -1,0 +1,6 @@
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\bin\Silverlight2.Web.dll.config
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\bin\Silverlight2.Web.dll
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\bin\Silverlight2.Web.pdb
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\obj\Debug\Silverlight2.Web.csprojResolveAssemblyReference.cache
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\obj\Debug\Silverlight2.Web.dll
+E:\Learn\Silverlight1\Silverlight2\Silverlight2.Web\obj\Debug\Silverlight2.Web.pdb
