@@ -22,6 +22,12 @@ namespace Silverlight2
         public MainPage()
         {
             InitializeComponent();
+			
+			
+			
+			
+			
+			
         }
 
     }
